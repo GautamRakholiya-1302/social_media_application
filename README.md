@@ -2,11 +2,11 @@
 
 This is a basic social media application developed as part of the Full Stack Developer Assessment for MD TECH. The application demonstrates core functionalities such as user authentication, post creation, and displaying a feed of posts. It is built with a clean architecture and follows best practices to ensure maintainability and scalability.
 
-## Live Demo
+## 🚀 Live Demo
 
-The project is deployed on Vercel. You can access the live application here:
+The project is deployed on **Vercel**. You can access the live application here:
 
-**[Live Demo](https://socialproject-omega.vercel.app/)**
+### 🌟 **[LIVE DEMO](https://socialproject-omega.vercel.app/)** 🌟
 
 ---
 
